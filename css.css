@@ -1,0 +1,29 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: #999b84;
+
+}
+.list-container{
+	width: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+.list-item{
+	box-shadow: 3px 3px 10px black;
+	display: flex;
+	width:150%;
+	margin: 1em;
+	background-color: #ddb7ab;
+	color: #024a86;
+	font-weight: semi-bold;
+	font-size: 1em;
+
+}
